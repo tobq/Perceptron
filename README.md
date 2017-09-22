@@ -1,12 +1,4 @@
 # Perceptron
 NNNNNNNNNNNNERUALLLLNEEEEEETWOOOOOOOOOOOOOOOOOOOKKKKKKKKKKKK
 
-
-
-
-
-
-
-
-
-`<script src = "https://raw.githubusercontent.com/tobq/Perceptron/master/NN.js"></script>`
+`<script src = "https://rawgit.com/tobq/Perceptron/master/NN.js"></script>`
